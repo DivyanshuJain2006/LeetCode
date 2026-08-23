@@ -4,14 +4,11 @@ public:
         int m = board.size();
         int n = board[0].size();
         queue<pair<int,int>>qu;
-        set<pair<int,int>>visited;
         for(int i=0;i<m;i++){
             if(board[i][0]=='O'){
                 board[i][0] = 'a';
                 qu.push({i,0});
             }
-        }
-        for(int i=0;i<m;i++){
             if(board[i][n-1]=='O'){
                 board[i][n-1] = 'a';
                 qu.push({i,n-1});  
@@ -22,18 +19,18 @@ public:
                 board[0][j] = 'a';
                 qu.push({0,j});
             }
-        }
-        for(int j=0;j<n;j++){
-            if(board[m-1][j]=='O'){
+             if(board[m-1][j]=='O'){
                 board[m-1][j] = 'a';
                 qu.push({m-1,j});
             }
         }
+       
+        int dr[] = {1,-1,0,0};
+        int dc[] = {0,0,1,-1};
         while(not qu.empty()){
             auto [r,c] = qu.front();
             qu.pop();
-            int dr[] = {1,-1,0,0};
-            int dc[] = {0,0,1,-1};
+           
             for(int k=0;k<4;k++){
                 int nr = r+dr[k];
                 int nc = c+dc[k];
