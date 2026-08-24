@@ -36,6 +36,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0934-shortest-bridge](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
+| [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
