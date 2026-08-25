@@ -6,11 +6,10 @@ public:
             s.insert(nums[i]);
         }
         int x = k;
-      
         while(1){
             if(s.find(x)==s.end()) return x;
             x+=k;
         }
-        return -1;
+        
     }
 };
