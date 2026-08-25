@@ -14,6 +14,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -32,6 +33,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -54,6 +56,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Search Tree
@@ -63,6 +66,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Hash Table
