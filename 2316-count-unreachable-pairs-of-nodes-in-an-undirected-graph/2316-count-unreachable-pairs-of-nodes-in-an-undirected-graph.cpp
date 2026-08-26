@@ -8,12 +8,12 @@ public:
         if(bi_dir) graph[dest].push_back(src);
     }
     void bfs(int src,unordered_set<int>&visited){
-        unordered_set<int>sex;
+        int size=0;
         queue<int>qu;
        
         qu.push(src);
         visited.insert(src);
-        sex.insert(src);
+        size++;
         while(!qu.empty()){
             int curr = qu.front();
             qu.pop();
@@ -21,11 +21,10 @@ public:
                 if(not visited.count(neighbor)){
                     qu.push(neighbor);
                     visited.insert(neighbor);
-                    sex.insert(neighbor);
+                    size++;
                 }
             }
         }
-        int size = sex.size();
         for(int i=1;i<=size;i++){
             count+= nodes - size;
         }
