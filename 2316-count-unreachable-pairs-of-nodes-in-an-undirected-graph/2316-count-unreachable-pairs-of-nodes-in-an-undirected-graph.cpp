@@ -25,9 +25,7 @@ public:
                 }
             }
         }
-        for(int i=1;i<=size;i++){
-            count+= nodes - size;
-        }
+        count += 1LL*size*(nodes-size);
     }
     void fun(){
         unordered_set<int>visited;
