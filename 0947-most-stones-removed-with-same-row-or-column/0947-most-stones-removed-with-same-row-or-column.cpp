@@ -10,7 +10,6 @@ public:
         visited.insert(src);
         for(auto neighbor : graph[src]){
             if(!visited.count(neighbor)){
-                visited.insert(neighbor);
                 dfs(neighbor,visited);
             }
         }
