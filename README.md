@@ -156,6 +156,7 @@
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0338-counting-bits/) | Easy |
+| [0461-hamming-distance](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0461-hamming-distance/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
