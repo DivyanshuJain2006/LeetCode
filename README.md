@@ -10,6 +10,7 @@
 | [0542-01-matrix](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0934-shortest-bridge](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@
 | [0200-number-of-islands](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Math
@@ -108,6 +110,7 @@
 | [0210-course-schedule-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Topological Sort
@@ -131,4 +134,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
