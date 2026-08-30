@@ -69,6 +69,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0338-counting-bits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0542-01-matrix](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0542-01-matrix/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -150,4 +151,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
