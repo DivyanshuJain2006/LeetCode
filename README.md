@@ -103,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -167,6 +168,7 @@
 | [0191-number-of-1-bits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0461-hamming-distance/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,4 +177,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 <!---LeetCode Topics End-->
