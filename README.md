@@ -12,6 +12,7 @@
 | [0994-rotting-oranges](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@
 | [0542-01-matrix](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0934-shortest-bridge](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
