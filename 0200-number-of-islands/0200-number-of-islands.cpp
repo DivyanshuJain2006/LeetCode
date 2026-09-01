@@ -1,29 +1,32 @@
 class Solution {
 public:
-    set<pair<int,int>>visited;
-    void dfs(vector<vector<char>>& grid,int i,int j){
+    int numIslands(vector<vector<char>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        if(i<0 || j<0 || i>=m || j>=n) return;
-        if(grid[i][j]=='0') return;
-        if(visited.count({i,j})) return;
-        visited.insert({i,j});
-        dfs(grid,i+1,j),dfs(grid,i-1,j),dfs(grid,i,j+1),dfs(grid,i,j-1);
-    }
-    int connected(vector<vector<char>>&grid){
         int cc = 0;
-        for(int i=0;i<grid.size();i++){
-            for(int j=0;j<grid[0].size();j++){
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
                 if(grid[i][j]=='0') continue;
-                if(not visited.count({i,j})){
-                    cc++;
-                    dfs(grid,i,j);
+                cc++;
+                queue<pair<int,int>>qu;
+                qu.push({i,j});
+                grid[i][j] = '0';
+                int dx[4] = {1,-1,0,0};
+                int dy[4] = {0,0,1,-1};
+                while(!qu.empty()){
+                    auto [r,c] = qu.front();
+                    qu.pop();
+                    for(int k=0;k<4;k++){
+                        int nr = r+dx[k];
+                        int nc = c+dy[k];
+                        if(nr>=0 and nc>=0 and nr<m and nc<n and grid[nr][nc]=='1'){
+                            qu.push({nr,nc});
+                            grid[nr][nc] = '0';
+                        }
+                    }
                 }
             }
         }
         return cc;
-    }  
-    int numIslands(vector<vector<char>>& grid) {
-        return connected(grid);
     }
 };
