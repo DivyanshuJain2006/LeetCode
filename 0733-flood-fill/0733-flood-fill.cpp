@@ -1,19 +1,29 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& image,int currRow,int currCol,int initialColor,int newColor){
-        int m = image.size();
-        int n = image[0].size();
-        if(currRow<0 or currCol<0 or currRow>=m or currCol>=n) return;
-        if(image[currRow][currCol]!=initialColor) return;
-        image[currRow][currCol] = newColor;
-       dfs(image,currRow+1,currCol,initialColor,newColor);
-       dfs(image,currRow-1,currCol,initialColor,newColor);
-       dfs(image,currRow,currCol+1,initialColor,newColor);
-       dfs(image,currRow,currCol-1,initialColor,newColor);
-    }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         if(image[sr][sc]==color) return image;
-        dfs(image,sr,sc,image[sr][sc],color);
+        int initialColor = image[sr][sc];
+        int m = image.size();
+        int n = image[0].size();
+        queue<pair<int,int>>qu;
+        //set<pair<int,int>>visited;
+        qu.push({sr,sc});
+        //visited.insert({sr,sc});
+        int dr[4] = {1,-1,0,0};
+        int dc[4] = {0,0,1,-1};
+        image[sr][sc] = color; 
+        while(!qu.empty()){
+            auto [r,c] = qu.front();
+            qu.pop();
+            for(int i=0;i<4;i++){
+                int nr = r+dr[i];
+                int nc = c+dc[i];
+                if(nr>=0 and nc>=0 and nr<m and nc<n and image[nr][nc]==initialColor){
+                    image[nr][nc] = color;
+                    qu.push({nr,nc});
+                }
+            }
+        }
         return image;
     }
 };
