@@ -31,6 +31,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0542-01-matrix](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -69,6 +70,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -85,6 +87,7 @@
 | [0130-surrounded-regions](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -149,6 +152,7 @@
 | [0207-course-schedule](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
