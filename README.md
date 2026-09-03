@@ -11,6 +11,7 @@
 | [0733-flood-fill](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0934-shortest-bridge](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -34,6 +35,7 @@
 | [0841-keys-and-rooms](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0934-shortest-bridge](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
@@ -47,6 +49,7 @@
 | [0733-flood-fill](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0934-shortest-bridge](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Depth-First Search
@@ -91,6 +94,7 @@
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0542-01-matrix](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0542-01-matrix/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
