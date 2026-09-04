@@ -71,6 +71,7 @@
 | [0210-course-schedule-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
@@ -114,6 +115,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -252,4 +255,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
