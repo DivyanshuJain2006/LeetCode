@@ -73,6 +73,7 @@
 | [0207-course-schedule](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -120,6 +121,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -134,6 +136,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -149,6 +152,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0257-binary-tree-paths](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Stack
@@ -237,6 +241,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Graph Coloring
