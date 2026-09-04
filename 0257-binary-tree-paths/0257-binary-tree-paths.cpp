@@ -26,7 +26,7 @@ public:
     vector<string> binaryTreePaths(TreeNode* root) {
         string s;
         dfs(root,s);
-        
+
         return result;
     }
 };
