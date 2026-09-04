@@ -106,6 +106,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -240,6 +241,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -275,4 +277,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
