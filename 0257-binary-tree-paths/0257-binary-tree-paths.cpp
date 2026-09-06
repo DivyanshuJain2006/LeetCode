@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-public:
+public: 
     vector<string>result;
     void dfs(TreeNode* root,string s){
         if(root==NULL) return;
@@ -20,13 +20,13 @@ public:
             result.push_back(s);
             return;
         }
+
         dfs(root->left,s+a+"->");
         dfs(root->right,s+a+"->");
     }
     vector<string> binaryTreePaths(TreeNode* root) {
         string s;
         dfs(root,s);
-
         return result;
     }
 };
