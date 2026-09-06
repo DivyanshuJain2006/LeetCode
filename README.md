@@ -232,6 +232,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
