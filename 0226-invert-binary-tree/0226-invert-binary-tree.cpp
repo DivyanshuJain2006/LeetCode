@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-public:
+public: 
     void helper(TreeNode* root){
         if(root==NULL) return;
         swap(root->left,root->right);
