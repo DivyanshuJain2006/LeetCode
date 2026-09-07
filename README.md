@@ -188,6 +188,7 @@
 | [0020-valid-parentheses](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0257-binary-tree-paths](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Stack
@@ -337,6 +338,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
