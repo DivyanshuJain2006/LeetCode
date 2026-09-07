@@ -115,6 +115,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -253,6 +254,7 @@
 | [0234-palindrome-linked-list](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
