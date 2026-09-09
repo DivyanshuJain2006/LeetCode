@@ -9,6 +9,7 @@
 | [0200-number-of-islands](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0542-01-matrix](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0542-01-matrix/) | Medium |
+| [0561-array-partition](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0695-max-area-of-island](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0860-lemonade-change](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0860-lemonade-change/) | Easy |
@@ -353,12 +354,14 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -388,6 +391,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0860-lemonade-change](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
