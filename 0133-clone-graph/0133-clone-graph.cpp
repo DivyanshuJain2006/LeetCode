@@ -25,21 +25,20 @@ public:
     void dfs(Node* actual,Node* clone){
         for(auto neighbor : actual->neighbors){
             if(nodeRegister[neighbor->val]==NULL){
-                Node* temp = new Node(neighbor->val);
-                nodeRegister[temp->val] = temp;
-                clone->neighbors.push_back(temp);
-                dfs(neighbor,temp);
+                Node* newNode = new Node(neighbor->val);
+                nodeRegister[neighbor->val] = newNode;
+                clone->neighbors.push_back(nodeRegister[neighbor->val]);
+                dfs(neighbor,newNode);
             }
-            else clone->neighbors.push_back(nodeRegister[neighbor->val]);
+            else  clone->neighbors.push_back(nodeRegister[neighbor->val]);
         }
     }
     Node* cloneGraph(Node* node) {
         if(node==NULL) return NULL;
-        nodeRegister.resize(110,NULL);
-
-        Node* temp = new Node(node->val);
-        nodeRegister[temp->val] = temp;
-        dfs(node,temp);
-        return temp;
+        nodeRegister.assign(110,NULL);
+        Node* clone = new Node(node->val);
+        nodeRegister[node->val] = clone;
+        dfs(node,clone);
+        return clone;
     }
 };
