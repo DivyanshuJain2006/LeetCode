@@ -18,6 +18,7 @@
 | [0733-flood-fill](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0860-lemonade-change](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0934-shortest-bridge](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -128,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
@@ -324,6 +326,7 @@
 | [0191-number-of-1-bits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,6 +352,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [2182-construct-string-with-repeat-limit](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 ## Shortest Path
@@ -383,6 +387,7 @@
 | [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -436,6 +441,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -444,4 +450,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
