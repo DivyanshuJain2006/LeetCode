@@ -4,13 +4,13 @@ public:
         int m = grid.size();
         int n = grid[0].size();
         int cc = 0;
+        queue<pair<int,int>>qu;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]=='0') continue;
                 cc++;
-                queue<pair<int,int>>qu;
+                grid[i][j]='0';
                 qu.push({i,j});
-                grid[i][j] = '0';
                 int dx[4] = {1,-1,0,0};
                 int dy[4] = {0,0,1,-1};
                 while(!qu.empty()){
