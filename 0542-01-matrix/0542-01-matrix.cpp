@@ -1,16 +1,13 @@
 class Solution {
 public:
-    vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int m = mat.size();
-        int n = mat[0].size();
+    vector<vector<int>> updateMatrix(vector<vector<int>>& grid) {
+        int m = grid.size();
+        int n = grid[0].size();
         queue<pair<int,int>>qu;
-        vector<vector<int>>ans(m,vector<int>(n,-1));
-        for(int i=0;i<mat.size();i++){
-            for(int j=0;j<mat[0].size();j++){
-                if(mat[i][j]==0){
-                    qu.push({i,j});
-                    ans[i][j]=0;
-                }
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==0) qu.push({i,j});
+                else grid[i][j]=-1;
             }
         }
         int dx[4] = {1,-1,0,0};
@@ -21,12 +18,12 @@ public:
             for(int k=0;k<4;k++){
                 int nr = r+dx[k];
                 int nc = c+dy[k];
-                if(nr>=0 and nc>=0 and nr<m and nc<n and ans[nr][nc]==-1){
-                    ans[nr][nc] = 1+ans[r][c];
+                if(nr>=0 and nc>=0 and nr<m and nc<n and grid[nr][nc]==-1){
                     qu.push({nr,nc});
+                    grid[nr][nc] = 1+grid[r][c];
                 }
             }
         }
-        return ans;
+        return grid;
     }
 };
