@@ -9,6 +9,7 @@
 | [0130-surrounded-regions](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0542-01-matrix](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0561-array-partition](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0561-array-partition/) | Easy |
@@ -190,6 +191,7 @@
 | [0141-linked-list-cycle](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0997-find-the-town-judge](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -316,6 +318,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0191-number-of-1-bits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,6 +342,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [2182-construct-string-with-repeat-limit](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 ## Shortest Path
@@ -370,6 +374,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -377,6 +382,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
@@ -421,4 +427,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
