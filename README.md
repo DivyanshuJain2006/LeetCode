@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0051-n-queens](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
@@ -286,6 +287,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0031-next-permutation](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
