@@ -164,6 +164,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -172,6 +173,7 @@
 | [0658-find-k-closest-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -362,6 +365,7 @@
 | [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
@@ -477,8 +481,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
