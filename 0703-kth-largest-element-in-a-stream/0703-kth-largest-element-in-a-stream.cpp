@@ -4,11 +4,14 @@ public:
     priority_queue<int,vector<int>,greater<int>>pq;
     KthLargest(int kalu, vector<int>& nums) {
        k = kalu;
-       for(auto ele : nums) pq.push(ele);
+       for(auto ele : nums){
+            pq.push(ele);
+            if(pq.size()>k) pq.pop();
+       }
     }
     int add(int val) {
         pq.push(val);
-        while(pq.size()>k) pq.pop();
+        if(pq.size()>k) pq.pop();
         return pq.top();
     }
 };
