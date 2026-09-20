@@ -1,19 +1,19 @@
 class Solution {
 public:
-    typedef pair<int,vector<int>>piv;
-    vector<vector<int>> kClosest(vector<vector<int>>& arr, int k) {
-        priority_queue<piv>pq;
-        for(vector<int>v:arr){
-            int x = v[0];
-            int y = v[1];
-            int distance = x*x+y*y;
-            pq.push({distance,v});
+    typedef pair<int,int> pii;
+    vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
+        priority_queue<pair<int,pii>>pq;
+        for(int i=0;i<points.size();i++){
+            int x = points[i][0];
+            int y = points[i][1];
+            int dist = x*x + y*y;
+            pq.push({dist,{x,y}});
             if(pq.size()>k) pq.pop();
         }
         vector<vector<int>>ans;
-        while(pq.size()>0){
-            vector<int> v = pq.top().second;
-            ans.push_back(v);
+        while(!pq.empty()){
+            auto curr = pq.top();
+            ans.push_back({curr.second.first,curr.second.second});
             pq.pop();
         }
         return ans;
