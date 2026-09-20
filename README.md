@@ -215,6 +215,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -334,6 +335,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
