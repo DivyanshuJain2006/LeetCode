@@ -32,6 +32,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -449,6 +450,7 @@
 | [0860-lemonade-change](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
