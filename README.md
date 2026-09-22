@@ -33,6 +33,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [1480-running-sum-of-1d-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -413,6 +414,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## DP on Trees
