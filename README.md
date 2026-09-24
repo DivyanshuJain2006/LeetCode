@@ -40,6 +40,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2974-minimum-number-game](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -152,6 +153,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
