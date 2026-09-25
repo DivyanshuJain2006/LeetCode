@@ -15,8 +15,8 @@ public:
                     pq.push(dq.top());
                     dq.pop();
                 }
-        }
-        while(pq.size()>k) pq.pop();
+                while(pq.size()>k) pq.pop();
+        } 
         while(pq.size()>0){
             ans+=pq.top();
             pq.pop();
