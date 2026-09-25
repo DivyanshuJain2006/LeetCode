@@ -134,6 +134,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Union-Find
@@ -190,6 +191,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -220,6 +222,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
