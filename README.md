@@ -68,6 +68,7 @@
 | [0226-invert-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0542-01-matrix](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0684-redundant-connection/) | Medium |
@@ -124,6 +125,7 @@
 | [0437-path-sum-iii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
@@ -192,6 +194,7 @@
 | [0437-path-sum-iii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -207,6 +210,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -231,6 +235,7 @@
 | [0437-path-sum-iii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
