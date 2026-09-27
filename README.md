@@ -143,6 +143,7 @@
 | [0934-shortest-bridge](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
@@ -209,6 +210,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Search Tree
@@ -227,6 +229,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +259,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Hash Table
@@ -495,6 +499,7 @@
 | [0692-top-k-frequent-words](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
