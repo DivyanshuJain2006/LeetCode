@@ -6,7 +6,7 @@ public:
         for(int i=0;i<s.size();i++){
             if(s[i]=='(') depth++;
             else if(s[i]==')') depth--;
-             ans = max(ans,depth);
+            ans = max(ans,depth);
             
         }
         return ans;
