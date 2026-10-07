@@ -442,6 +442,7 @@
 | [0022-generate-parentheses](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0113-path-sum-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -572,6 +573,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
