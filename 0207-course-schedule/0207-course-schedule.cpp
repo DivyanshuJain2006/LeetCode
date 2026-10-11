@@ -1,11 +1,12 @@
 class Solution {
 public:
-    int v;
     vector<list<int>>graph;
-    void add_edge(int src,int dest){
+    int v;
+    void add_edge(int src,int dest,bool bi_dir = true){
         graph[src].push_back(dest);
+        if(bi_dir) graph[dest].push_back(src);
     }
-    bool topo_bfs(){
+    int topo_BFS(){
         vector<int>indegree(v,0);
         for(int i=0;i<v;i++){
             for(auto neighbor : graph[i]){
@@ -18,25 +19,23 @@ public:
         }
         int cnt = 0;
         while(!qu.empty()){
-            int curr = qu.front();
-            cnt++;
+            auto curr = qu.front();
             qu.pop();
-            for(auto neighbor:graph[curr]){
+            cnt++;
+            for(auto neighbor : graph[curr]){
                 indegree[neighbor]--;
-                if(indegree[neighbor]==0){
-                    qu.push(neighbor);
-                }
+                if(indegree[neighbor]==0) qu.push(neighbor);
             }
         }
-        if(cnt!=v) return false;
-        return true;
+        return cnt;
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         v = numCourses;
-        graph.resize(numCourses);
+        graph.resize(v);
         for(int i=0;i<prerequisites.size();i++){
-            add_edge(prerequisites[i][1],prerequisites[i][0]);
+            add_edge(prerequisites[i][1],prerequisites[i][0],false);
         }
-        return topo_bfs();
+        if(topo_BFS()==numCourses) return true;
+        return false;
     }
 };
