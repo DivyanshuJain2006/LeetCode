@@ -1,12 +1,13 @@
 class Solution {
 public:
-    int v;
-    vector<int>ans;
     vector<list<int>>graph;
-    void add_edge(int src,int dest){
+    int v;
+     vector<int>ans;
+    void add_edge(int src,int dest,bool bi_dir = true){
         graph[src].push_back(dest);
+        if(bi_dir) graph[dest].push_back(src);
     }
-    vector<int> topo_bfs(){
+    int topo_BFS(){
         vector<int>indegree(v,0);
         for(int i=0;i<v;i++){
             for(auto neighbor : graph[i]){
@@ -18,27 +19,26 @@ public:
             if(indegree[i]==0) qu.push(i);
         }
         int cnt = 0;
+       
         while(!qu.empty()){
-            int curr = qu.front();
-            ans.push_back(curr);
-            cnt++;
+            auto curr = qu.front();
             qu.pop();
-            for(auto neighbor:graph[curr]){
+            cnt++;
+            ans.push_back(curr);
+            for(auto neighbor : graph[curr]){
                 indegree[neighbor]--;
-                if(indegree[neighbor]==0){
-                    qu.push(neighbor);
-                }
+                if(indegree[neighbor]==0) qu.push(neighbor);
             }
         }
-        if(ans.size()!=v) return {};
-        return ans;
+        return cnt;
     }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-         v = numCourses;
-        graph.resize(numCourses);
+        v = numCourses;
+        graph.resize(v);
         for(int i=0;i<prerequisites.size();i++){
-            add_edge(prerequisites[i][1],prerequisites[i][0]);
+            add_edge(prerequisites[i][1],prerequisites[i][0],false);
         }
-        return topo_bfs();
+       if(topo_BFS()==v) return ans;
+       return {};
     }
 };
