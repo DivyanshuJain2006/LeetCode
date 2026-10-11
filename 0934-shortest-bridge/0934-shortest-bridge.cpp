@@ -1,57 +1,56 @@
 class Solution {
 public:
-    queue<pair<int,int>>qu;
-    int m;
-    int n;
     int dx[4] = {1,-1,0,0};
     int dy[4] = {0,0,1,-1};
-    void marksIsland(vector<vector<int>>&grid,int r,int c){
-        queue<pair<int,int>>q;
-        qu.push({r,c});
-        q.push({r,c});
-        grid[r][c] = 2;
-        while(!q.empty()){
-            auto [r,c] = q.front();
-            q.pop();
+    void bfs(vector<vector<int>>&grid,int i,int j,queue<pair<int,int>>&quu){
+        int m = grid.size();
+        int n = grid[0].size();
+        queue<pair<int,int>>qu;
+        qu.push({i,j});
+        quu.push({i,j});
+        grid[i][j] = 2;
+        while(!qu.empty()){
+            auto [r,c] = qu.front();
+            qu.pop();
             for(int k=0;k<4;k++){
                 int nr = r+dx[k];
                 int nc = c+dy[k];
                 if(nr>=0 and nc>=0 and nr<m and nc<n and grid[nr][nc]==1){
-                    qu.push({nr,nc});
-                    q.push({nr,nc});
                     grid[nr][nc] = 2;
+                    qu.push({nr,nc});
+                    quu.push({nr,nc});
                 }
             }
         }
     }
     int shortestBridge(vector<vector<int>>& grid) {
-        m = grid.size();
-        n = grid[0].size();
+        int m = grid.size();
+        int n = grid[0].size();
+        queue<pair<int,int>>quu;
         bool found = false;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]==1){
-                    found =true;
-                    marksIsland(grid,i,j);
+                    bfs(grid,i,j,quu);
+                    found = true;
                     break;
                 }
             }
             if(found) break;
         }
         int moves = 0;
-        while(!qu.empty()){
-            int size = qu.size();
-            
+        while(!quu.empty()){
+            int size = quu.size();
             while(size--){
-                auto[r,c] = qu.front();
-                qu.pop();
+                auto [r,c] = quu.front();
+                quu.pop();
                 for(int k=0;k<4;k++){
                     int nr = r+dx[k];
-                    int nc= c+dy[k];
+                    int nc = c+dy[k];
                     if(nr>=0 and nc>=0 and nr<m and nc<n and grid[nr][nc]!=2){
                         if(grid[nr][nc]==1) return moves;
                         grid[nr][nc] = 2;
-                        qu.push({nr,nc});
+                        quu.push({nr,nc});
                     }
                 }
             }
