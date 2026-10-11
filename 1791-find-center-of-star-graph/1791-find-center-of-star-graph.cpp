@@ -7,6 +7,6 @@ public:
         int c = edges[1][0];
         int d = edges[1][1];
 
-        return (a==c || a==d)?a:b;
+        return (a==c || a==d) ? a:b;
     }
 };
