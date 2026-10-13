@@ -52,6 +52,7 @@
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -545,6 +546,7 @@
 | [2363-merge-similar-items](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2363-merge-similar-items/) | Easy |
 | [2974-minimum-number-game](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -596,6 +598,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
