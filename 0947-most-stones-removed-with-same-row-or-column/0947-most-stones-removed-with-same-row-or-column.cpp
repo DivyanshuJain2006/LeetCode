@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<list<int>>graph;
     int v;
-    void add_edge(int src,int dest,bool bi_dir=true){
+    void add_edge(int src,int dest,bool bi_dir = true){
         graph[src].push_back(dest);
         if(bi_dir) graph[dest].push_back(src);
     }
@@ -10,31 +10,31 @@ public:
         visited.insert(src);
         for(auto neighbor : graph[src]){
             if(!visited.count(neighbor)){
-                dfs(neighbor,visited);
+            dfs(neighbor,visited);
             }
         }
     }
-    int connected_components(){
+    int connected_component(){
+        int ans = 0;
         unordered_set<int>visited;
-        int cc = 0;
         for(int i=0;i<v;i++){
             if(!visited.count(i)){
-                cc++;
+                ans++;
                 dfs(i,visited);
             }
         }
-        return cc;
+        return ans;
     }
     int removeStones(vector<vector<int>>& stones) {
         int n = stones.size();
-        v=n;
-        graph.resize(n);
+        v = n;
+        graph.resize(v,list<int>());
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
                 if(stones[i][0]==stones[j][0] || stones[i][1]==stones[j][1]) add_edge(i,j);
             }
         }
-        int cc = connected_components();
+        int cc = connected_component();
         return n - cc;
     }
 };
