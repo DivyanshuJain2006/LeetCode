@@ -27,21 +27,21 @@ public:
         queue<pair<int,int>>q;
         for(int i=0;i<n;i++){
             if(grid[0][i]==0){
-                grid[0][i]=2;
+                grid[0][i]=1;
                 q.push({0,i});
             }
             if(grid[m-1][i]==0){
-                grid[m-1][i]=2;
+                grid[m-1][i]=1;
                 q.push({m-1,i});
             }
         }
         for(int j=0;j<m;j++){
             if(grid[j][0]==0){
-                grid[j][0]=2;
+                grid[j][0]=1;
                 q.push({j,0});
             }
             if(grid[j][n-1]==0){
-                grid[j][n-1]=2;
+                grid[j][n-1]=1;
                 q.push({j,n-1});
             }
         }
