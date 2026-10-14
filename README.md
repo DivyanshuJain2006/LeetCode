@@ -20,6 +20,7 @@
 | [0561-array-partition](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0690-employee-importance](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -80,6 +81,7 @@
 | [0547-number-of-provinces](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0684-redundant-connection](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+| [0690-employee-importance](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0695-max-area-of-island](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -146,6 +148,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+| [0690-employee-importance](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0695-max-area-of-island](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -225,6 +228,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0690-employee-importance](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -295,6 +299,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0690-employee-importance](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0997-find-the-town-judge](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
