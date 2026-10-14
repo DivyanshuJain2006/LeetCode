@@ -11,6 +11,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0200-number-of-islands](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -242,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
