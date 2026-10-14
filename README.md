@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0037-sudoku-solver](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0051-n-queens/) | Hard |
@@ -289,6 +290,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0037-sudoku-solver](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0133-clone-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0133-clone-graph/) | Medium |
