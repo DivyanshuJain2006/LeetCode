@@ -188,6 +188,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
