@@ -313,6 +313,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2363-merge-similar-items](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2363-merge-similar-items/) | Easy |
@@ -333,6 +334,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -568,6 +570,7 @@
 | [0692-top-k-frequent-words](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 ## Floyd's Cycle Finding Algorithm
@@ -634,6 +637,7 @@
 | ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
