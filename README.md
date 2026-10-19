@@ -47,6 +47,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2363-merge-similar-items](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2363-merge-similar-items/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -260,6 +261,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -557,6 +559,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2363-merge-similar-items](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2363-merge-similar-items/) | Easy |
 | [2974-minimum-number-game](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
