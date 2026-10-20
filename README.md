@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0037-sudoku-solver](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0051-n-queens/) | Hard |
@@ -324,6 +325,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
@@ -666,6 +668,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
