@@ -698,4 +698,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
