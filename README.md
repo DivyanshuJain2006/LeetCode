@@ -50,6 +50,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -107,6 +108,7 @@
 | [1254-number-of-closed-islands](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -128,6 +130,7 @@
 | [1162-as-far-from-land-as-possible](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
