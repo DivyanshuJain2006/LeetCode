@@ -31,6 +31,7 @@
 | [0695-max-area-of-island](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0815-bus-routes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0815-bus-routes/) | Hard |
 | [0860-lemonade-change](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0934-shortest-bridge](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -99,6 +100,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0815-bus-routes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0815-bus-routes/) | Hard |
 | [0841-keys-and-rooms](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0934-shortest-bridge](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -337,6 +339,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0690-employee-importance](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0815-bus-routes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0815-bus-routes/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0997-find-the-town-judge](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
