@@ -215,6 +215,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [2652-sum-multiples](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
