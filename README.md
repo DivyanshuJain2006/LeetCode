@@ -21,6 +21,7 @@
 | [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0561-array-partition](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0561-array-partition/) | Easy |
@@ -211,6 +212,7 @@
 | [0009-palindrome-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0258-add-digits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -589,6 +591,7 @@
 | [0347-top-k-frequent-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0561-array-partition](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
