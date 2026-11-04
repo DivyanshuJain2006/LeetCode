@@ -30,6 +30,7 @@
 | [0690-employee-importance](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [0724-find-pivot-index](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0815-bus-routes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0815-bus-routes/) | Hard |
@@ -571,6 +572,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
