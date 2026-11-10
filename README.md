@@ -69,6 +69,7 @@
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -244,6 +245,7 @@
 | [0542-01-matrix](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
