@@ -66,6 +66,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2974-minimum-number-game](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -587,6 +588,7 @@
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## DP on Trees
@@ -702,6 +704,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
