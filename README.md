@@ -52,6 +52,7 @@
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -226,6 +227,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2652-sum-multiples](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2652-sum-multiples/) | Easy |
@@ -246,6 +248,7 @@
 | [0542-01-matrix](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Tree
@@ -588,6 +591,7 @@
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
