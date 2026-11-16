@@ -392,6 +392,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -533,6 +534,7 @@
 | [0258-add-digits](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
