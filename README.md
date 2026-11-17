@@ -249,6 +249,7 @@
 | [0678-valid-parenthesis-string](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Tree
@@ -393,6 +394,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -494,6 +496,7 @@
 | [0658-find-k-closest-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/DivyanshuJain2006/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
