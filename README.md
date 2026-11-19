@@ -64,6 +64,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2363-merge-similar-items](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2363-merge-similar-items/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2974-minimum-number-game](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -633,6 +634,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2363-merge-similar-items](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2363-merge-similar-items/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2974-minimum-number-game](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -688,6 +690,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Algorithm X
