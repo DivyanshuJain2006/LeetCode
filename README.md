@@ -68,6 +68,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2974-minimum-number-game](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -199,6 +200,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -288,6 +290,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/DivyanshuJain2006/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,6 +375,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2363-merge-similar-items](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2363-merge-similar-items/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
@@ -400,6 +404,7 @@
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DivyanshuJain2006/LeetCode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DivyanshuJain2006/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Stack
